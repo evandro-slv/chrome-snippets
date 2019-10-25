@@ -18,7 +18,7 @@ Displayed information:
 
 #### Setup
 
-Just change the variables in the snippet with your modules:
+Download the js file, create a new snippet ([link: how to create chrome snippets](https://developers.google.com/web/tools/chrome-devtools/javascript/snippets)), then change the variables in the snippet with your modules:
 
     controllersModule = '';
     servicesModule = '' || controllersModule;
