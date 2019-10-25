@@ -12,6 +12,8 @@ Displayed information:
 - Source code (click to navigate)
 - Dependencies (Services / Factories) injected in controller
 
+#### Example
+
 ![Demo](https://raw.githubusercontent.com/evandro-slv/chrome-snippets/master/angular%20-%20Find%20controller%20info.png)
 
 #### Setup
